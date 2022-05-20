@@ -3,9 +3,9 @@
 
 ##  Learning:
 -   Hello World.
--   
--   
--   
+-
+-
+-
 
 ##  Atividades:
 -   isprime(n)
@@ -14,4 +14,3 @@
 -   contamultiplos(n1,n2,n3)
 -   testatriangulo(a,b,c)
 -   testarepetidos(vet)
-

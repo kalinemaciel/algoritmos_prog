@@ -1,12 +1,6 @@
 <h1 align="center">Algoritmos e Programação :)</h1>
 <h2 align="center">Atividades desenvolvidas na disciplina de Algoritmos e Programação</h2>
 
-##  Learning:
--   Hello World.
--
--
--
-
 ##  Atividades:
 -   isprime(n)
 -   ler_nota()

@@ -3,10 +3,12 @@
 
 # ----------- STRINGS -----------
 
-frase = input('1ª string: ')
-palavra = input('2ª string: ')
+string1 = input('1ª string: ')
+string2 = input('2ª string: ')
 
-if frase.count(palavra) != 0:
-    print(f'{palavra} encontrado {} na posição de {frase}')
+find    = string1.find(string2)
+
+if string2 in string1:
+    print(f'{string2} encontrado na posição {find} de {string1}')
 else:
-    print(f'{palavra} não encontrado em {frase}')
+    print(f'{string2} não encontrado em {string1}')

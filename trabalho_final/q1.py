@@ -6,7 +6,7 @@
 temperatura = []
 
 for n in range(12):
-    valor = float(input())
+    valor = float(input('Informe a temperatura: '))
     temperatura.append(valor)
 
 maior = max(temperatura)
